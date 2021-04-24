@@ -7,7 +7,7 @@ Credit risk is very tough to predict. In this project we want to take a look at 
 
 ## Results
 
- All dependencies Imported
+ &#8595; All dependencies Imported &#8595;
  
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_1.png)
 

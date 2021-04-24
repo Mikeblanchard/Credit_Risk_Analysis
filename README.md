@@ -14,9 +14,10 @@ Credit risk is very tough to predict. In this project we want to take a look at 
 &#8595; Naive Random Oversampling &#8595;
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_NAIVE_RANDOM_OVERSAMPLING_2.png)
-- wer
-- dsf
-- dfs
+* wer
+* dsf
+* dfs
+***
 
 &#8595; SMOTE Oversampling &#8595;
 

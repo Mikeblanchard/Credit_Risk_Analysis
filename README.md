@@ -7,9 +7,9 @@ Credit risk is very tough to predict. In this project we want to take a look at 
 
 ## Results
 
-<div align= "center"> All dependencies Imported </div>
+ All dependencies Imported
+![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_1.png)
 
-   ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_1.png)
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_NAIVE_RANDOM_OVERSAMPLING_2.png)
 

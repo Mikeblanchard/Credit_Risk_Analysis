@@ -10,6 +10,7 @@ Credit risk is very tough to predict. In this project we want to take a look at 
  &#8595; All dependencies Imported &#8595;
  
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_1.png)
+***
 
 &#8595; Naive Random Oversampling &#8595;
 
@@ -22,19 +23,39 @@ Credit risk is very tough to predict. In this project we want to take a look at 
 &#8595; SMOTE Oversampling &#8595;
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_SMOTE_OVERSAMPLING_3.png)
+*
+*
+*
+***
 
 &#8595; Undersampling &#8595;
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_UNDERSAMPLING_4.png)
+*
+*
+*
+***
 
 &#8595; Combination Sampling &#8595;
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_COMBINATION_SAMPLING_5.png)
+*
+*
+*
+***
 
 &#8595; Balanced Random Forest Classifier &#8595;
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_BALANCED_RANDOM_FOREST_CLASSIFIER_5.png)
+*
+*
+*
+***
 
 &#8595; Easy Ensemble AdaBoost Classifier &#8595;
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_EASY_ENSEMBLE_ADABOOST_CLASSIFIER_6.png)
+*
+*
+*
+***

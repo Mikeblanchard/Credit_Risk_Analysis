@@ -16,51 +16,47 @@ Credit risk is very tough to predict. In this project we want to take a look at 
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_NAIVE_RANDOM_OVERSAMPLING_2.png)
 * A balanced accuracy score of 66%
-
-|               |High Risk      | Low Risk  |
-| ------------- |:-------------:| -----:|
-| **Precision**  | - 1%          | - 100% |
-| **Recall**     | - 62%         | - 66% |
-| **F1**         | - 2 %         | - 79%  |
+* High risk precision, recall and F1 scores of 1%, 62% and 2%. Low risk scores of 100%, 66% and 79%.
+* A large difference between the support of high and low risk is dramatic
 ***
 
 &#8595; SMOTE Oversampling &#8595;
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_SMOTE_OVERSAMPLING_3.png)
-*
-*
-*
+* A balanced accuracy score of 66% 
+* High risk precision, recall and F1 scores of 1%, 63% and 2%. Low risk scores of 100%, 66% and 79%.
+* Very similar to the naive random oversampling model 
 ***
 
 &#8595; Undersampling &#8595;
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_UNDERSAMPLING_4.png)
-*
-*
-*
+* A balanced accuracy score of 45% 
+* High risk precision, recall and F1 scores of 1%, 61% and 1%. Low risk scores of 100%, 45% and 62%.
+* High number of false positives are affecting the sensitivity scores.
 ***
 
 &#8595; Combination Sampling &#8595;
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_COMBINATION_SAMPLING_5.png)
-*
-*
-*
+* A balanced accuracy score of 54% 
+* High risk precision, recall and F1 scores of 1%, 69% and 1%. Low risk scores of 100%, 54% and 70%.
+* 
 ***
 
 &#8595; Balanced Random Forest Classifier &#8595;
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_BALANCED_RANDOM_FOREST_CLASSIFIER_5.png)
-*
-*
-*
+* A balanced accuracy score of 90%
+* High risk precision, recall and F1 scores of 4%, 67% and 7%. Low risk scores of 100%, 91% and 95%.
+* Much fewer false positives have coalesced the recall and precision scores of the low risk group.
 ***
 
 &#8595; Easy Ensemble AdaBoost Classifier &#8595;
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_EASY_ENSEMBLE_ADABOOST_CLASSIFIER_6.png)
-*
-*
+* A balanced accuracy score of 94% 
+* High risk precision, recall and F1 scores of 7%, 91% and 14%. Low risk scores of 100%, 94% and 97%.
 *
 ***
 

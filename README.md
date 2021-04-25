@@ -61,4 +61,4 @@ The purpose of this analysis is to figure out with model best predicts credit ri
 
 ## Summary
 
-When trying to determine wich model best predicts risk, we want a good balance of recall, precision and accuracy. We can see that each model we used seemed to get better, further refining risk numbers. For this analysis, we have determined the Easy Enselmble Classifier to be best, due to its high accuracy and great balance of precision and recall, as it also tries to minimize bias. 
+When trying to determine wich model best predicts risk, we want a good balance of recall, precision and accuracy. We can see that each model we used seemed to get better, further refining risk numbers. For this analysis, we have determined the Easy Enselmble Classifier to be best, due to its high accuracy and great balance of precision and recall. Perhaps this isn't surprising as it is a newer model that minimizes bias. 

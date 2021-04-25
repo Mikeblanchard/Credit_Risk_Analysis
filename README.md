@@ -2,8 +2,7 @@
 
 ## Overview of the analysis:
 
-
-Credit risk is very tough to predict. In this project we want to take a look at how all the factors in our loan_stats csv help predict whether someone is low or high risk status. One method that data scientists use for this type of issue is creating a model and then evaluate and train the models that they create. In this specific project we are using imbalanced-learn and scikit-learn libraries to build models and evalute them using a resampling method. In the first couple of models I oversampled the data using randomoversampler and smote algorithms and undersample the data with the clustercentroid algorithm. In the remaining models I used a combination approach to over and undersample the data using smoteenn. Finally, I compared two machine learning models that minimize bias, balancedrandomforestclassifier and easyensembleclassifier.
+The purpose of this analysis is to figure out with model best predicts credit risk. We are loooking at Naive Random Oversampling, SMOTE Oversampling, Undersampling, Combination Sampling, Balanced Random Forest Classifier and Easy Ensemble Classifier. We will evaluate and train each model with the data and compare the results. 
 
 ## Results
 
@@ -41,7 +40,7 @@ Credit risk is very tough to predict. In this project we want to take a look at 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_COMBINATION_SAMPLING_5.png)
 * A balanced accuracy score of 54% 
 * High risk precision, recall and F1 scores of 1%, 69% and 1%. Low risk scores of 100%, 54% and 70%.
-* 
+* Slightly higher accuracy score than the previous model, though unconvincing other values. 
 ***
 
 &#8595; Balanced Random Forest Classifier &#8595;
@@ -57,7 +56,9 @@ Credit risk is very tough to predict. In this project we want to take a look at 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_EASY_ENSEMBLE_ADABOOST_CLASSIFIER_6.png)
 * A balanced accuracy score of 94% 
 * High risk precision, recall and F1 scores of 7%, 91% and 14%. Low risk scores of 100%, 94% and 97%.
-*
+* All values approaching 100% and high F1 scores. 
 ***
 
 ## Summary
+
+When trying to determine wich model best predicts risk, we want a good balance of recall, precision and accuracy. We can see that each model we used seemed to get better, further refining risk numbers. For this analysis, we have determined the Easy Enselmble Classifier to be best, due to its high accuracy and great balance of precision and recall, as it also tries to minimize bias. 

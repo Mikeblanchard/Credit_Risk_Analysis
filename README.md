@@ -17,13 +17,11 @@ Credit risk is very tough to predict. In this project we want to take a look at 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_NAIVE_RANDOM_OVERSAMPLING_2.png)
 * A balanced accuracy score of 66%
 
-
 |               |High Risk      | Low Risk  |
 | ------------- |:-------------:| -----:|
 | ** Precision  | - 1%          | - 100% |
 | ** Recall     | - 62%         | - 66% |
 | ** F1         | - 2 %         | - 79%  |
-| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
 ***
 
 &#8595; SMOTE Oversampling &#8595;

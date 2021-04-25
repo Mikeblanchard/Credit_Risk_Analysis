@@ -47,7 +47,7 @@ Credit risk is very tough to predict. In this project we want to take a look at 
 &#8595; Balanced Random Forest Classifier &#8595;
 
 ![](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/Resources/Machine_BALANCED_RANDOM_FOREST_CLASSIFIER_5.png)
-* A balanced accuracy score of 90%
+* A balanced accuracy score of 91%
 * High risk precision, recall and F1 scores of 4%, 67% and 7%. Low risk scores of 100%, 91% and 95%.
 * Much fewer false positives have coalesced the recall and precision scores of the low risk group.
 ***

@@ -19,9 +19,9 @@ Credit risk is very tough to predict. In this project we want to take a look at 
 
 |               |High Risk      | Low Risk  |
 | ------------- |:-------------:| -----:|
-| ** Precision  | - 1%          | - 100% |
-| ** Recall     | - 62%         | - 66% |
-| ** F1         | - 2 %         | - 79%  |
+| **Precision**  | - 1%          | - 100% |
+| **Recall**     | - 62%         | - 66% |
+| **F1**         | - 2 %         | - 79%  |
 ***
 
 &#8595; SMOTE Oversampling &#8595;

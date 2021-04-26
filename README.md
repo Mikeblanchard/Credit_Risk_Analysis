@@ -4,7 +4,7 @@
 
 The purpose of this analysis is to figure out with model best predicts credit risk. We are loooking at Naive Random Oversampling, SMOTE Oversampling, Undersampling, Combination Sampling, Balanced Random Forest Classifier and Easy Ensemble Classifier. We will evaluate and train each model with the data and compare the results with imbalanced-learn and scikit-learn libraries. 
 
-Link to the resampled code [here](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb) and the ensemble code [here](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb) 
+A link to the resampled code [here](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb) and the ensemble code [here](https://github.com/Mikeblanchard/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb) 
 
 ## Results
 

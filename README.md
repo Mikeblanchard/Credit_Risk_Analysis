@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 
-The purpose of this analysis is to figure out with model best predicts credit risk. We are loooking at Naive Random Oversampling, SMOTE Oversampling, Undersampling, Combination Sampling, Balanced Random Forest Classifier and Easy Ensemble Classifier. We will evaluate and train each model with the data and compare the results. 
+The purpose of this analysis is to figure out with model best predicts credit risk. We are loooking at Naive Random Oversampling, SMOTE Oversampling, Undersampling, Combination Sampling, Balanced Random Forest Classifier and Easy Ensemble Classifier. We will evaluate and train each model with the data and compare the results with imbalanced-learn and scikit-learn libraries. 
 
 ## Results
 
